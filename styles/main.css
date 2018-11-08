@@ -1,0 +1,180 @@
+
+
+---------- Forwarded message ---------
+From: NESTOR HELI BAUTISTA BALLESTEROS <nhbautista3@misena.edu.co>
+Date: jue., 8 nov. 2018 a las 16:06
+Subject: 
+To: YEISON FERNEY BENAVIDES DIAZ <yfbenavides2@misena.edu.co>
+
+
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+*{
+  margin: 0;
+  padding: 0;
+}
+
+/*PAGINA DE INICIO*/
+main{
+  background-color:greenyellow;
+  width: 650px;
+  height: 700px;
+  margin: auto;
+  padding-top: 30px;
+  padding-left: 70px;
+  padding-bottom: 30px;
+}
+
+/*PARATE DE ARRIBA*/
+main>article {
+  width: 180px;
+  height: 180px;
+  background-color:green;
+  display: inline-block;
+  margin: 10px 5px ; 
+}
+main>article>section{
+  width: 180px;
+  height: 180px;
+  background-color: grey;
+  display: inline-block;
+  border-radius: 50%;
+  margin: auto;
+}
+
+/*PARTE DEL MEDIO*/
+main>section{
+  width: 220px;
+  height: 220px;
+  background-color: green;
+  display: inline-block;
+  margin: 10px 25px ; 
+}
+main>section>section{
+  width: 219px;
+  height: 219px;
+  background-color: grey;
+  display: inline-block;
+  border-radius: 50%;
+  margin:auto; 
+}
+
+/*PARTE DE ABAJO*/
+main>div{
+  background-color: green;
+  width: 505px;
+  height: 265px;
+  display: inline-block;
+  margin: 10px 5px ;
+  padding-left: 10px;  
+}
+main>div>article{
+  width: 130px;
+  height: 245px;
+  background-color: grey;
+  display: inline-block;
+  margin: 10px 15px ; 
+}
+main>div>article>aside{
+  width: 70px;
+  height: 70px;
+  background-color: green;
+  margin: 8px 25px ;
+}
+main>div>article>nav{
+  width: 70px;
+  height: 220px;
+  background-color: green;
+  margin: 15px 30px ;
+  border-radius: 45%;
+}
+main>div>article>footer{
+  width: 70px;
+  height: 70px;
+  background-color: green;
+  margin: 8px 25px ;
+  border-radius: 50%;
+}
+
+
+nav{
+  background-color: #17FFEC;
+  text-align: center;
+}
+nav ul li {
+  display: inline-block;
+  list-style: none;
+}
+nav ul li a{
+  display: inline-block;
+  padding: 15px 20px;
+  text-decoration: none;
+  color: #0C0000;
+  font-family: 'Roboto', sans-serif;
+  font-size: 22px;
+}
+.active{
+  background-color: #CD2BE2;
+}
+
+/*pagina dos*/
+/*arriba*/
+main>nav{
+  width: 250px;
+  height: 250px;
+  background-color: gold;
+  display: inline-block;
+  margin: 15px 15px; 
+}
+main>nav>section{
+  width: 120px;
+  height: 120px;
+ background-color: violet;
+ display: inline-block;
+ border-radius: 50%;
+ margin: auto;
+}
+
+/*centro*/
+main>footer{
+  width: 300px;
+  height: 180px;
+  background-color: gold;
+  display: inline-block;
+  margin: 20px 150px; 
+  padding-top: 10px;
+}
+main>footer>section{
+  width: 145px;
+  height: 145px;
+ background-color: violet;
+ display: inline-block;
+ border-radius: 50%;
+ margin: 10px 0px;
+}
+
+/*abajo*/
+main>a{
+  width: 130px;
+  height: 170px;
+  background-color: gold;
+  display: inline-block;
+  margin: 10px;
+  padding-top: 10px;
+}
+main>a>section{
+  width:70px;
+  height: 140px;
+  background-color: violet;
+ margin: 15px 30px;
+ border-radius: 45%;
+}
+
+main>a>aside{
+  width: 50px;
+  height: 50px;
+  background-color: violet;
+  margin: 5px;
+  border-radius: 50%;
+  display: inline-block;
+
+}
