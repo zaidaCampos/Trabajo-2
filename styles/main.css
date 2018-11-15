@@ -14,9 +14,10 @@ To: YEISON FERNEY BENAVIDES DIAZ <yfbenavides2@misena.edu.co>
 }
 
 /*PAGINA DE INICIO*/
+
 main{
   background-color:greenyellow;
-  width: 650px;
+  width: 690px;
   height: 700px;
   margin: auto;
   padding-top: 30px;
@@ -121,7 +122,7 @@ nav ul li a{
 main>nav{
   width: 250px;
   height: 250px;
-  background-color: gold;
+  background-color: green;
   display: inline-block;
   margin: 15px 15px; 
 }
@@ -138,7 +139,7 @@ main>nav>section{
 main>footer{
   width: 300px;
   height: 180px;
-  background-color: gold;
+  background-color:royalblue;
   display: inline-block;
   margin: 20px 150px; 
   padding-top: 10px;
@@ -153,17 +154,18 @@ main>footer>section{
 }
 
 /*abajo*/
+
 main>a{
-  width: 130px;
-  height: 170px;
-  background-color: gold;
+  width: 136px;
+  height: 158px;
+  background-color:yellow;
   display: inline-block;
   margin: 10px;
-  padding-top: 10px;
+  padding-bottom: 5px;
 }
 main>a>section{
   width:70px;
-  height: 140px;
+  height: 130px;
   background-color: violet;
  margin: 15px 30px;
  border-radius: 45%;
@@ -171,10 +173,513 @@ main>a>section{
 
 main>a>aside{
   width: 50px;
-  height: 50px;
+  height: 65px;
   background-color: violet;
-  margin: 5px;
+  margin: 9px;
   border-radius: 50%;
   display: inline-block;
 
 }
+
+
+/*hoja 3*/
+
+/*PARTE DE ARRIBA*/
+main>li{
+  width: 270px;
+  height: 180px;
+  background-color: purple;
+  display: inline-block;
+  margin: 10px 5px ;
+  padding: 10px;
+}
+main>li>am{
+  width: 266px;
+  height: 183px;
+  background-color: violet;
+  display: inline-block;
+  margin:-1px 3px; 
+}
+main>li>am>el{
+  width: 246px;
+  height: 165px;
+  background-color: aquamarine;
+  display: inline-block;
+  margin:8px 10px; 
+}
+main>li>am>el>b{
+  width: 55px;
+  height: 55px;
+  background-color: black;
+  display: inline-block;
+  border-radius: 50%;
+  margin: 8.7px 13px;
+}
+main>li>am>el>ax{
+  width: 55px;
+  height: 55px;
+  background-color: black;
+  display: inline-block;
+  margin: 8.7px 13px;
+}
+/*PARTE DEL MEDIO*/
+main>em{
+  background-color: red;
+  width: 585px;
+  height: 265px;
+  display: inline-block;
+  margin: 10px 5px ;
+  padding-left: 10px;
+  padding-top: 5px;
+}
+main>em>sig{
+  background-color: blue;
+  width: 550px;
+  height: 230px;
+  display: inline-block;
+  margin: 10px 5px ;
+  padding-left: 10px;
+  padding-top: 5px;
+}
+main>em>sig>j{
+    width: 205px;
+    height: 200px;
+    background-color:aqua;
+    display: inline-block;
+    margin:12px 4px;
+  
+}
+main>em>sig>j>j1{
+  width: 70px;
+  height: 150px;
+  background-color: black;
+  margin: 25px 12px ;
+  border-radius: 45%;
+  display:inline-block;
+}
+main>em>sig>si{
+  width: 164px;
+  height: 200px;
+  background-color: aqua;
+  display: inline-block;
+  margin:0px;
+}
+main>em>sig>si>si1{
+  width: 143px;
+  height: 60px;
+  background-color: black;
+  margin: 19px 10px ;
+  border-radius:45%;
+  display:inline-block;
+
+}
+main>em>sig>t{
+  width: 143px;
+  height: 200px;
+  background-color: aqua;
+  display: inline-block;
+  margin:0px 6px;
+
+}
+main>em>sig>t>b{
+  width: 63px;
+  height: 60px;
+  background-color: black;
+  margin: 19px 37px ;
+  border-radius:50%;
+  display:inline-block;
+}
+
+/*parte de abajo*/
+main>ult{
+  background-color:fuchsia;
+  width: 584px;
+  height: 187px;
+  display: inline-block;
+  margin: 10px 5px ;
+  padding-left: 10px;
+  padding-top: 5px;
+
+}
+main>ult>g{
+  background-color: violet;
+  width: 546px;
+  height: 154px;
+  display: inline-block;
+  margin: 11px 12px ;
+  padding-left: 3px;
+  padding-top: 5px;
+
+}
+main>ult>g>c{
+  background-color: #F71212;
+  width: 513px;
+  height: 125px;
+  display: inline-block;
+  margin: 11px 14px ;
+  padding-left: 3px;
+  padding-top: 5px;
+}
+main>ult>g>c>f{
+  background-color: aqua;
+  width: 481px;
+  height: 101px;
+  display: inline-block;
+  margin: 7px 11px ;
+  padding-left: 3px;
+  padding-top: 5px;
+
+
+}
+main>ult>g>c>f>b{
+  width: 65px;
+  height: 65px;
+  background-color: black;
+  display: inline-block;
+  border-radius: 50%;
+  margin: 12.7px 15px;
+}
+
+
+
+
+/*hoja numero4*/
+
+main>nav{
+  width: 100px;
+  height: 200px;
+  background-color: aqua;
+  display: inline-block;
+  margin: 2px 2px 2px -18px ; 
+}
+main>xz{
+  width: 100px;
+  height: 200px;
+  background-color: aqua;
+  display: inline-block;
+  margin: 2px 2px 2px 5px ; 
+  
+}
+main>cd{
+  width: 100px;
+  height: 200px;
+  background-color: aqua;
+  display: inline-block;
+  margin: 2px 2px 2px 5px ; 
+
+}
+main>mn{
+  width: 100px;
+  height: 200px;
+  background-color: aqua;
+  display: inline-block;
+  margin: 2px 2px 2px 5px ; 
+
+}
+main>as{
+  width: 100px;
+  height: 200px;
+  background-color: aqua;
+  display: inline-block;
+  margin: 2px 2px 2px 5px ; 
+
+}
+main>fg{
+  width: 80px;
+  height: 200px;
+  background-color: aqua;
+  display: inline-block;
+  margin: 2px 2px 2px 5px ; 
+
+}
+main>nav>al{
+  width: 70px;
+  height: 70px;
+  background-color: black;
+  margin:15px;
+  border-radius:50%;
+  display:inline-block;
+}
+main>xz>al{
+  width: 63px;
+  height: 175px;
+  background-color: black;
+  margin:15px;
+  border-radius:50%;
+  display:inline-block;
+}
+main>cd>al{
+  width: 70px;
+  height: 70px;
+  background-color: black;
+  margin:15px;
+  border-radius:50%;
+  display:inline-block;
+}
+main>mn>al{
+  width: 63px;
+  height: 175px;
+  background-color: black;
+  margin:15px;
+  border-radius:50%;
+  display:inline-block;
+}
+main>as>al{
+  width: 70px;
+  height: 70px;
+  background-color: black;
+  margin:15px;
+  border-radius:50%;
+  display:inline-block;
+}
+
+
+main>cua{
+  width: 211px;
+  height: 219px;
+  background-color: aqua;
+  display: inline-block;
+  margin: 2px 2px 2px -17px ; 
+}
+main>cua>arr{
+  width: 169px;
+  height: 54px;
+  background-color: violet;
+  display: inline-block;
+  margin: 10px 2px 2px 20px ; 
+}
+main>cua>arr>al{
+  width: 159px;
+  height: 44px;
+  background-color: black;
+  margin:6px;
+  border-radius:50%;
+  display:inline-block;
+}
+main>cua>za{
+  width: 74px;
+  height: 132px;
+  background-color: violet;
+  display: inline-block;
+  margin: 6px 2px 2px 19px ; 
+}
+main>cua>za>al{
+  width: 62px;
+  height: 121px;
+  background-color: black;
+  margin:6px;
+  border-radius:50%;
+  display:inline-block;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+footer>section>section{
+  width: 70px;
+  height: 70px;
+  background-color: black;
+  margin:15px;
+  border-radius:50%;
+  display:inline-block;
+}
+footer>section>nav{
+  width: 70px;
+  height: 174px;
+  background-color: black;
+  margin: 12px;
+  border-radius: 45%;
+}
+/*PARTE DEL MEDIO*/
+footer>div{
+  width: 200px;
+  height: 200px;
+  background-color: bisque;
+  display: inline-block;
+  margin-top: 10px;
+}
+footer>div>section{
+  width: 180px;
+  height: 60px;
+  background-color: black;
+  display: inline-block;
+  margin: 10px ;
+}
+footer>div>section>nav{
+  width: 150px;
+  height: 50px;
+  background-color: yellow;
+  margin: auto;
+  margin-top: 5px;
+  border-radius: 45%;
+}
+footer>div>nav{
+  width: 80px;
+  height: 110px;
+  background-color: black;
+  display: inline-block;
+  margin:1px 10px;
+}
+footer>div>nav>nav{
+  width: 50px;
+  height: 100px;
+  background-color: yellow;
+  margin: auto;
+  margin-top: 5px;
+  border-radius: 45%;
+}
+footer>div>nav>section{
+  width: 45px;
+  height: 45px;
+  background-color: yellow;
+  margin: auto;
+  margin-top: 7px;
+  border-radius: 45%;
+}
+footer>li{
+  width: 400px;
+  height: 200px;
+  background-color: bisque;
+  display: inline-block;
+  margin: 10px;
+  vertical-align: top; 
+  vertical-align: right; 
+}
+footer>li>div{
+  width: 380px;
+  height: 180px;
+  background-color: black;
+  margin: 10px ;
+  padding: 0.2px;
+}
+footer>li>div>nav{
+  width: 350px;
+  height: 160px;
+  background-color: yellow;
+  margin: auto; 
+  margin-top: 10px;
+}
+footer>li>div>nav>section{
+  width: 90px;
+  height: 140px;
+  background-color: black;
+  display: inline-block;
+  margin: 10px ;
+}
+footer>li>div>nav>section>div{
+  width: 60px;
+  height: 60px;
+  background-color: yellow;
+  margin: auto;
+  margin-top: 40px;
+  border-radius: 45%;
+}
+
+
+/*PARTE MEDIO INFERIOR*/
+footer>n{
+  width: 190px;
+  height: 200px;
+  background-color: bisque;
+  display: inline-block;
+  margin: 10px 10px 0px 5px;
+  vertical-align: top;
+}
+footer>n>o{
+  width: 170px;
+  height: 180px;
+  background-color: black;
+  display: inline-block;
+  margin: 10px;
+}
+footer>n>o>d{
+  width: 120px;
+  height: 80px;
+  background-color: yellow;
+  display: inline-block;
+  margin: 15px;
+  margin-left: 25px;
+}
+footer>n>o>d>x{
+  width: 60px;
+  height: 60px;
+  background-color: black;
+  display: inline-block;
+  border-radius: 50%;
+  margin: 10px;
+  margin-left: 30px;
+}
+footer>n>o>k{
+  width: 110px;
+  height: 60px;
+  background-color: yellow;
+  display: inline-block;
+  border-radius: 50%;
+  margin-left: 30px;
+}
+footer>n>o>ka{
+  width: 110px;
+  height: 60px;
+  background-color: yellow;
+  display: inline-block;
+  border-radius: 50%;
+  margin-left: 30px;
+  margin-top: 10px;
+}
+footer>n>o>na{
+  width: 160px;
+  height: 160px;
+  background-color: yellow;
+  display: inline-block;
+  border-radius: 50%;
+  margin-left: 5px;
+  margin-top: 10px;
+}
+/*PARTE INFERIOR*/
+footer>la{
+  width: 600px;
+  height: 190px;
+  background-color: bisque;
+  display: inline-block;
+  margin: 10px;
+  vertical-align: top; 
+  vertical-align: right;
+}
+footer>la>ja{
+  width: 90px;
+  height: 120px;
+  background-color: black;
+  display: inline-block;
+  margin-top: 35px;
+  margin-left: 22px;
+  vertical-align: top;
+}
+footer>la>ja>hu{
+  width: 80px;
+  height: 80px;
+  background-color: yellow;
+  display: inline-block;
+  border-radius: 50%;
+  margin-left: 5px;
+  margin-top: 20px;
+}
+footer>la>ja>de{
+  width: 80px;
+  height: 40px;
+  background-color: yellow;
+  display: inline-block;
+  border-radius: 50%;
+  margin-left: 5px;
+  margin-top: 12px;
+}
+
+
+
