@@ -29,9 +29,9 @@ main{
 main>article {
   width: 180px;
   height: 180px;
-  background-color:green;
+  background-color: green;
   display: inline-block;
-  margin: 10px 5px ; 
+  margin: 20px 11px;
 }
 main>article>section{
   width: 180px;
@@ -48,7 +48,7 @@ main>section{
   height: 220px;
   background-color: green;
   display: inline-block;
-  margin: 10px 25px ; 
+  margin: 20px 46px;
 }
 main>section>section{
   width: 219px;
@@ -65,8 +65,8 @@ main>div{
   width: 505px;
   height: 265px;
   display: inline-block;
-  margin: 10px 5px ;
-  padding-left: 10px;  
+  margin: 44px 58px;
+  padding-left: 10px;
 }
 main>div>article{
   width: 130px;
@@ -89,10 +89,10 @@ main>div>article>nav{
   border-radius: 45%;
 }
 main>div>article>footer{
-  width: 70px;
-  height: 70px;
+  width: 31px;
+  height: 0px;
   background-color: green;
-  margin: 8px 25px ;
+  margin: 1px 25px;
   border-radius: 50%;
 }
 
@@ -144,13 +144,23 @@ main>footer{
   margin: 20px 150px; 
   padding-top: 10px;
 }
-main>footer>section{
-  width: 145px;
-  height: 145px;
- background-color: violet;
- display: inline-block;
- border-radius: 50%;
- margin: 10px 0px;
+main>footer>sa{
+  width: 140px;
+  height: 140px;
+  background-color: darkblue;
+  display: inline-block;
+  border-radius: 50%;
+  margin-left: -32px;
+  margin-top: 32px;
+}
+main>footer>sa1{
+  width: 140px;
+  height: 140px;
+  background-color: darkblue;
+  display: inline-block;
+  border-radius: 50%;
+  margin-left: 27px;
+  margin-top: 32px;
 }
 
 /*abajo*/
@@ -180,6 +190,13 @@ main>a>aside{
   display: inline-block;
 
 }
+
+
+
+
+
+
+
 
 
 /*hoja 3*/
@@ -343,65 +360,35 @@ main>ult>g>c>f>b{
 
 
 
-/*hoja numero4*/
-
-div{
-  background-color:greenyellow;
-  width: 690px;
-  height: 700px;
+/*CUARTA PAGINA*/
+footer{
+  background-color: greenyellow;
+  width: 650px;
+  height: 800px;
   margin: auto;
   padding-top: 30px;
-  padding-left: 70px;
-  padding-bottom: 30px;
+  padding-left: 50px;
+  padding-bottom: 50px;
 }
-div>nav{
-  width: 100px;
-  height: 200px;
-  background-color: aqua;
-  display: inline-block;
-  margin: 2px 2px 2px -18px ; 
-}
-div>xz{
-  width: 100px;
-  height: 200px;
-  background-color: aqua;
-  display: inline-block;
-  margin: 2px 2px 2px 5px ; 
-  
-}
-div>cd{
-  width: 100px;
-  height: 200px;
-  background-color: aqua;
-  display: inline-block;
-  margin: 2px 2px 2px 5px ; 
 
-}
-div>mn{
-  width: 100px;
+/*ARRIBA*/
+
+footer>section{
+  width: 95px;
   height: 200px;
   background-color: aqua;
   display: inline-block;
-  margin: 2px 2px 2px 5px ; 
-
+  margin: 2px 2px 2px 5px ;
+  vertical-align: top;
 }
-div>as{
-  width: 100px;
-  height: 200px;
-  background-color: aqua;
-  display: inline-block;
-  margin: 2px 2px 2px 5px ; 
-
-}
-div>fg{
+footer>nav{
   width: 80px;
   height: 200px;
   background-color: aqua;
   display: inline-block;
   margin: 2px 2px 2px 5px ; 
-
 }
-div>nav>al{
+footer>section>section{
   width: 70px;
   height: 70px;
   background-color: black;
@@ -409,86 +396,755 @@ div>nav>al{
   border-radius:50%;
   display:inline-block;
 }
-div>xz>al{
-  width: 63px;
-  height: 175px;
-  background-color: black;
-  margin:15px;
-  border-radius:50%;
-  display:inline-block;
-}
-
-
-div>cd>al{
+footer>section>nav{
   width: 70px;
-  height: 70px;
+  height: 174px;
   background-color: black;
-  margin:15px;
-  border-radius:50%;
-  display:inline-block;
+  margin: 12px;
+  border-radius: 45%;
 }
-div>mn>al{
-  width: 63px;
-  height: 175px;
-  background-color: black;
-  margin:15px;
-  border-radius:50%;
-  display:inline-block;
-}
-div>as>al{
-  width: 70px;
-  height: 70px;
-  background-color: black;
-  margin:15px;
-  border-radius:50%;
-  display:inline-block;
-}
+/*MEDIO*/
 
-
-div>cua{
-  width: 211px;
-  height: 219px;
+footer>div{
+  width: 200px;
+  height: 200px;
   background-color: aqua;
   display: inline-block;
-  margin: 2px 2px 2px -17px ; 
+  margin-top: 10px;
 }
-div>cua>arr{
-  width: 169px;
-  height: 54px;
+footer>div>section{
+  width: 180px;
+  height: 60px;
+  background-color: firebrick;
+  display: inline-block;
+  margin: 10px ;
+}
+footer>div>section>nav{
+  width: 150px;
+  height: 50px;
+  background-color:violet;
+  margin: auto;
+  margin-top: 5px;
+  border-radius: 45%;
+}
+footer>div>nav{
+  width: 80px;
+  height: 110px;
+  background-color: firebrick;
+  display: inline-block;
+  margin:1px 10px;
+}
+footer>div>nav>nav{
+  width: 50px;
+  height: 100px;
+  background-color: violet;
+  margin: auto;
+  margin-top: 5px;
+  border-radius: 45%;
+}
+footer>div>nav>section{
+  width: 45px;
+  height: 45px;
+  background-color: violet;
+  margin: auto;
+  margin-top: 7px;
+  border-radius: 45%;
+}
+footer>li{
+  width: 400px;
+  height: 200px;
+  background-color: aqua;
+  display: inline-block;
+  margin: 10px;
+  vertical-align: top; 
+  vertical-align: right; 
+}
+footer>li>div{
+  width: 380px;
+  height: 180px;
+  background-color: firebrick;
+  margin: 10px ;
+  padding: 0.2px;
+}
+footer>li>div>nav{
+  width: 350px;
+  height: 160px;
+  background-color:violet;
+  margin: auto; 
+  margin-top: 10px;
+}
+footer>li>div>nav>section{
+  width: 90px;
+  height: 140px;
+  background-color: fuchsia;
+  display: inline-block;
+  margin: 10px ;
+}
+footer>li>div>nav>section>div{
+  width: 60px;
+  height: 60px;
+  background-color: red;
+  margin: auto;
+  margin-top: 40px;
+  border-radius: 45%;
+}
+
+/*ABAJO*/
+footer>n{
+  width: 190px;
+  height: 200px;
+  background-color: aqua;
+  display: inline-block;
+  margin: 10px 10px 0px 5px;
+  vertical-align: top;
+}
+footer>n>o{
+  width: 170px;
+  height: 180px;
+  background-color: fuchsia;
+  display: inline-block;
+  margin: 10px;
+}
+footer>n>o>d{
+  width: 120px;
+  height: 80px;
+  background-color: aquamarine;
+  display: inline-block;
+  margin: 15px;
+  margin-left: 25px;
+}
+footer>n>o>d>x{
+  width: 60px;
+  height: 60px;
+  background-color: black;
+  display: inline-block;
+  border-radius: 50%;
+  margin: 10px;
+  margin-left: 30px;
+}
+footer>n>o>k{
+  width: 110px;
+  height: 60px;
+  background-color: aqua;
+  display: inline-block;
+  border-radius: 50%;
+  margin-left: 30px;
+}
+footer>n>o>ka{
+  width: 110px;
+  height: 60px;
+  background-color: aquamarine;
+  display: inline-block;
+  border-radius: 50%;
+  margin-left: 30px;
+  margin-top: 10px;
+}
+footer>n>o>na{
+  width: 160px;
+  height: 160px;
+  background-color: aquamarine;
+  display: inline-block;
+  border-radius: 50%;
+  margin-left: 5px;
+  margin-top: 10px;
+}
+/*MAS ABAJO*/
+footer>la{
+  width: 600px;
+  height: 190px;
+  background-color: aqua;
+  display: inline-block;
+  margin: 10px;
+  vertical-align: top; 
+  vertical-align: right;
+}
+footer>la>ja{
+  width: 90px;
+  height: 120px;
+  background-color: fuchsia;
+  display: inline-block;
+  margin-top: 35px;
+  margin-left: 22px;
+  vertical-align: top;
+}
+footer>la>ja>hu{
+  width: 80px;
+  height: 80px;
+  background-color: darkblue;
+  display: inline-block;
+  border-radius: 50%;
+  margin-left: 5px;
+  margin-top: 20px;
+}
+footer>la>ja>de{
+  width: 80px;
+  height: 40px;
   background-color: violet;
   display: inline-block;
-  margin: 10px 2px 2px 20px ; 
+  border-radius: 50%;
+  margin-left: 5px;
+  margin-top: 12px;
 }
-div>cua>arr>al{
-  width: 159px;
-  height: 44px;
+/*paguina 5*/
+  main {
+  background-color: greenyellow;
+  width: 688px;
+  height: 800px;
+  margin: auto;
+  padding-top: 30px;
+  padding-left: 50px;
+  padding-bottom: 50px;
+
+}
+main>bg1{
+  width: 182px;
+  height: 585px;
+  background-color: fuchsia;
+  display: inline-block;
+  margin-top: 10px;
+  margin-left: -2px;
+  vertical-align: top;
+  margin: 9px 13px 8px 6px;
+}
+main>bg1>cc{
+  width: 73px;
+  height: 131px;
+  background-color: aqua;
+  display: inline-block;
+  margin-top: 14px;
+  margin-left: 10px;
+  vertical-align: top;
+}
+main>bg1>cc>pp{
+  width: 55px;
+  height: 55px;
   background-color: black;
-  margin:6px;
-  border-radius:50%;
-  display:inline-block;
+  display: inline-block;
+  border-radius: 50%;
+  margin: 3.7px 9px;
 }
-div>cua>za{
+main>bg1>cc>ppr{
+  width: 55px;
+  height: 120px;
+  background-color: black;
+  display: inline-block;
+  border-radius: 50%;
+  margin: 3.7px 9px;
+}
+main>bg1>zz{
+  width: 160px;
+  height: 82px;
+  background-color: aqua;
+  display: inline-block;
+  margin-top: 14px;
+  margin-left: 10px;
+  vertical-align: top;
+}
+
+main>bg1>zz>pp{
+  width: 55px;
+  height: 55px;
+  background-color: black;
+  display: inline-block;
+  border-radius: 50%;
+  margin: 11.7px 11px;
+}
+  main>bg1>c2{
+    width: 73px;
+    height: 131px;
+    background-color: aqua;
+    display: inline-block;
+    margin-top: 14px;
+    margin-left: 10px;
+    vertical-align: top;
+  }
+  main>bg1>c2>pp{
+    width: 55px;
+    height: 55px;
+    background-color: black;
+    display: inline-block;
+    border-radius: 50%;
+    margin: 3.7px 9px;
+  }
+  
+  main>bg1>dd{
+    width: 160px;
+    height: 170px;
+    background-color: aqua;
+    display: inline-block;
+    margin-top: 14px;
+    margin-left: 10px;
+    vertical-align: top;
+  }
+  main>bg1>dd>pp{
+    width: 55px;
+    height: 55px;
+    background-color: black;
+    display: inline-block;
+    border-radius: 50%;
+    margin: 7.7px 11px;
+  }
+  main>bg1>dd>ppr{
+    width: 53px;
+    height: 35px;
+    background-color: black;
+    display: inline-block;
+    border-radius: -2%;
+    margin: -11.3px 52px;
+  }
+  main>bg1>dd>ppl{
+    width: 138px;
+    height: 55px;
+    background-color: black;
+    display: inline-block;
+    border-radius: 1%;
+    margin: 12.7px 11px;
+  }
+main>bg2{
+  width: 182px;
+  height: 585px;
+  background-color: fuchsia;
+  display: inline-block;
+  margin-top: 10px;
+  margin-left: -2px;
+  vertical-align: top;
+  margin: 9px 13px 8px 6px;
+}
+main>bg2>dd{
+  width: 160px;
+  height: 170px;
+  background-color: aqua;
+  display: inline-block;
+  margin-top: 14px;
+  margin-left: 10px;
+  vertical-align: top;
+}
+main>bg2>dd>pp{
+  width: 55px;
+  height: 55px;
+  background-color: black;
+  display: inline-block;
+  border-radius: 50%;
+  margin: 7.7px 11px;
+}
+main>bg2>dd>ppr{
+  width: 53px;
+  height: 35px;
+  background-color: black;
+  display: inline-block;
+  border-radius: -2%;
+  margin: -11.3px 52px;
+}
+main>bg2>dd>ppl{
+  width: 138px;
+  height: 55px;
+  background-color: black;
+  display: inline-block;
+  border-radius: 1%;
+  margin: 12.7px 11px;
+}
+main>bg2>c2{
+  width: 73px;
+  height: 131px;
+  background-color: aqua;
+  display: inline-block;
+  margin-top: 14px;
+  margin-left: 10px;
+  vertical-align: top;
+}
+main>bg2>c2>pp{
+  width: 55px;
+  height: 55px;
+  background-color: black;
+  display: inline-block;
+  border-radius: 50%;
+  margin: 3.7px 9px;
+}
+main>bg2>zz{
+  width: 160px;
+  height: 82px;
+  background-color: aqua;
+  display: inline-block;
+  margin-top: 14px;
+  margin-left: 10px;
+  vertical-align: top;
+}
+
+main>bg2>zz>pp{
+  width: 55px;
+  height: 55px;
+  background-color: black;
+  display: inline-block;
+  border-radius: 50%;
+  margin: 11.7px 11px;
+}
+main>bg2>aa{
   width: 74px;
-  height: 132px;
-  background-color: violet;
+  height: 135px;
+  background-color: aqua;
   display: inline-block;
-  margin: 6px 2px 2px 19px ; 
+  margin-top: 14px;
+  margin-left: 10px;
+  vertical-align: top;
 }
-div>cua>za>al{
-  width: 62px;
-  height: 121px;
+main>bg2>aa>pp{
+  width: 55px;
+  height: 119px;
   background-color: black;
-  margin:6px;
+  display: inline-block;
+  border-radius: 50%;
+  margin: 9.7px 9px;
+}
+main>bg3{
+  width: 182px;
+  height: 585px;
+  background-color: fuchsia;
+  display: inline-block;
+  margin-top: 10px;
+  margin-left: -2px;
+  vertical-align: top;
+  margin: 9px 13px 8px 6px;
+}
+main>bg3>c2{
+  width: 73px;
+  height: 83px;
+  background-color: aqua;
+  display: inline-block;
+  margin-top: 14px;
+  margin-left: 10px;
+  vertical-align: top;
+}
+main>bg3>c2>pp{
+  width: 55px;
+  height: 61px;
+  background-color: black;
+  display: inline-block;
+  border-radius: 50%;
+  margin: 9.7px 9px;
+}
+main>bg3>l2{
+  width: 161px;
+  height: 118px;
+  background-color: aqua;
+  display: inline-block;
+  margin-top: 14px;
+  margin-left: 10px;
+  vertical-align: top;
+}
+main>bg3>l2>pp{
+  width: 49px;
+  height: 52px;
+  background-color: black;
+  display: inline-block;
+  border-radius: 50%;
+  margin: 1.7px 14px;
+}
+main>bg3>ll2{
+  width: 161px;
+  height: 118px;
+  background-color: aqua;
+  display: inline-block;
+  margin-top: 14px;
+  margin-left: 10px;
+  vertical-align: top;
+}
+main>bg3>ll2>l3{
+  width: 128px;
+  height: 44px;
+  background-color: fuchsia;
+  display: inline-block;
+  margin-top: 10px;
+  margin-left: 17px;
+  vertical-align: top;
+}
+main>bg3>ll2>l3>pp{
+  width: 87px;
+  height: 37px;
+  background-color: black;
+  display: inline-block;
+  border-radius: 50%;
+  margin: 3.7px 22px;
+}
+main>bg3>ll2>pp{
+  width: 52px;
+  height: 52px;
+  background-color: black;
+  display: inline-block;
+  border-radius: 50%;
+  margin: 3.7px 53px;
+}
+main>bg3>ulti{
+  width: 74px;
+  height: 187px;
+  background-color: aqua;
+  display: inline-block;
+  margin-top: 14px;
+  margin-left: 10px;
+  vertical-align: top;
+}
+main>bg3>ulti>pp{
+  width: 52px;
+  height: 52px;
+  background-color: black;
+  display: inline-block;
+  border-radius: 50%;
+  margin: 2.7px 14px;
+}
+main>bg4{
+  width: 597px;
+  height: 212px;
+  background-color: fuchsia;
+  display: inline-block;
+  margin-top: 10px;
+  margin-left: 6px;
+  vertical-align: top;
+}
+main>bg4>ff{
+  width: 161px;
+  height: 166px;
+  background-color: aqua;
+  display: inline-block;
+  margin-top: 22px;
+  margin-left: 10px;
+  vertical-align: top;
+}
+main>bg4>ff>pp{
+  width: 59px;
+  height: 63px;
+  background-color: black;
+  display: inline-block;
+  border-radius: 50%;
+  margin: 9.7px 9px;
+
+}
+main>bg4>ff>ppr{
+  width: 142px;
+  height: 64px;
+  background-color: black;
+  display: inline-block;
+  border-radius: 50%;
+  margin: 1.7px 9px;
+
+}
+main>bg4>gg{
+  width: 222px;
+  height: 166px;
+  background-color: aqua;
+  display: inline-block;
+  margin-top: 22px;
+  margin-left: 10px;
+  vertical-align: top;
+}
+main>bg4>gg>gg1{
+  width: 202px;
+  height: 140px;
+  background-color: fuchsia;
+  display: inline-block;
+  margin-top: 14px;
+  margin-left: 10px;
+  vertical-align: top;
+}
+main>bg4>gg>gg1>pp{
+  width: 55px;
+  height: 55px;
+  background-color: black;
+  display: inline-block;
+  border-radius: 50%;
+  margin: 34.7px 4px;
+
+}
+
+/*SEXTA PAGINA*/
+.pagina6{
+  background-color: greenyellow;
+  width: 650px;
+  height: 800px;
+  margin: auto;
+  padding-top: 30px;
+  padding-left: 50px;
+  padding-bottom: 50px;
+  padding-right: 50px;
+}
+.pagina6>article {
+  width: 126px;
+  height: 133px;
+  background-color: aqua;
+  display: inline-block;
+  margin: 10px 5px ;
+  padding-left: 8px;
+  padding-right: 8px;
+  vertical-align: top;
+}
+.pagina6>article>div {
+  width: 49px;
+  height: 44px;
+  background-color: red;
+  margin: 17px 7px ;
   border-radius:50%;
   display:inline-block;
 }
-div>bn{
-  width: 411px;
-  height: 218px;
+.pagina6>article>section {
+  width: 38px;
+  height: 39px;
+  background-color: darkcyan;
+  display: inline-block;
+  border: 2px solid red;
+}
+.pagina6>nav {
+  width: 321px;
+  height: 133px;
   background-color: aqua;
   display: inline-block;
-  margin: 10px 2px -10px 5px ; 
-  padding: -2px;
+  margin: 10px 5px ; 
 }
-
+.pagina6>nav>main {
+  width: 20px;
+  height: 20px;
+  background-color: darkcyan;
+  display: inline-block;
+  margin: 26px 5px ;
+}
+.pagina6>nav>main>aside {
+  width: 50px;
+  height: 50px;
+  background-color: red;
+  margin: -11px -42px;
+  border-radius: 50%;
+}
+.pagina6>.cc {
+  width: 126px;
+  height: 250px;
+  background-color:aqua;
+  display: inline-block;
+  margin: 10px 5px 
+}
+.pagina6>.cc>.ccc {
+  width: 106px;
+  height: 230px;
+  background-color: darkcyan;
+  display: inline-block;
+  margin: 10px 9px 
+}
+.pagina6>.cc>.ccc>.circulo {
+  width: 70px;
+  height: 70px;
+  background-color: red;
+  margin: 30px 17px ;
+  border-radius:50%;
+}
+.pagina6>.cc>.xccc {
+  width: 106px;
+  height: 78px;
+  background-color: darkcyan;
+  display: inline-block;
+  margin: 10px 9px 
+}
+.pagina6>.cc>.xccc>.xcirculo {
+  width: 60px;
+  height: 60px;
+  background-color: red;
+  margin: 9px 23px ;
+  border-radius:50%;
+}
+.pagina6>.cc>.xxccc {
+  width: 106px;
+  height: 138px;
+  background-color: darkcyan;
+  display: inline-block;
+  margin: 0px 9px 
+}
+.pagina6>.cc>.xxccc>.xxcirculo {
+  width: 55px;
+  height: 55px;
+  background-color: red;
+  margin: 10px 25px ;
+  border-radius:50%;
+}
+.pagina6>.xcc {
+  width: 157px;
+  height: 250px;
+  background-color: aqua;
+  display: inline-block;
+  margin: 10px 5px 
+}
+.pagina6>.xcc>.gcirculo {
+  width: 155px;
+  height: 155px;
+  background-color: red;
+  margin: 43px 1px ;
+  border-radius:50%;
+}
+.pagina6>.xxcc {
+  width: 119px;
+  height: 250px;
+  background-color: aqua;
+  display: inline-block;
+  margin: 10px 5px 
+}
+.pagina6>.xxcc>.doscirculos {
+  width: 75px;
+  height: 75px;
+  background-color: red;
+  margin: 13px 21px ;
+  border-radius:50%;
+}
+.pagina6>.xxcc>.ovalo {
+  width: 113px;
+  height: 51px;
+  background-color: red;
+  margin: 13px 3px ;
+  border-radius:50%;
+}
+.pagina6>.grande {
+  width: 618px;
+  height: 390px;
+  background-color: aqua;
+  display: inline-block;
+  margin: 10px 5px 
+}
+.pagina6>.grande>.cuadros {
+  width: 117px;
+  height: 124px;
+  background-color: violet;
+  display: inline-block;
+  margin: 40px 6px;
+  padding-left: 20px;
+}
+.pagina6>.grande>.cuadros>.bola {
+  width: 50px;
+  height: 50px;
+  background-color: red;
+  margin: 17px 20px ;
+  border-radius:50%;
+}
+.pagina6>.grande>.cuadros>.cuadritos {
+  width: 30px;
+  height: 30px;
+  background-color: darkcyan;
+  display: inline-block;
+  border: 2px solid red;
+  margin: -3px
+}
+.pagina6>.grande>.rectangulos {
+  width: 291px;
+  height: 166px;
+  background-color:violet;
+  display: inline-block;
+  margin: -10px 6px;
+}
+.pagina6>.grande>.rectangulos>.xrectangulos {
+  width: 259px;
+  height: 136px;
+  background-color: darkcyan;
+  display: inline-block;
+  margin: 15px 14px;
+}
+.pagina6>.grande>.rectangulos>.xrectangulos>.pepas {
+  width: 70px;
+  height: 70px;
+  background-color: brown;
+  margin: 34px 3px ;
+  display: inline-block;
+  border-radius:50%
+}
 
