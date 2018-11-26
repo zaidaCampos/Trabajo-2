@@ -18,7 +18,7 @@ To: YEISON FERNEY BENAVIDES DIAZ <yfbenavides2@misena.edu.co>
 main{
   background-color:greenyellow;
   width: 690px;
-  height: 700px;
+  height: 788px;
   margin: auto;
   padding-top: 30px;
   padding-left: 70px;
@@ -293,8 +293,8 @@ main>em>sig>t>b{
 /*parte de abajo*/
 main>ult{
   background-color:fuchsia;
-  width: 584px;
-  height: 187px;
+  width: 604px;
+  height: 238px;
   display: inline-block;
   margin: 10px 5px ;
   padding-left: 10px;
@@ -303,29 +303,29 @@ main>ult{
 }
 main>ult>g{
   background-color: violet;
-  width: 546px;
-  height: 154px;
+  width: 564px;
+  height: 194px;
   display: inline-block;
-  margin: 11px 12px ;
+  margin: 18px 12px ;
   padding-left: 3px;
   padding-top: 5px;
 
 }
 main>ult>g>c{
   background-color: #F71212;
-  width: 513px;
-  height: 125px;
+  width: 518px;
+  height: 152px;
   display: inline-block;
-  margin: 11px 14px ;
+  margin: 14px 17px ;
   padding-left: 3px;
   padding-top: 5px;
 }
 main>ult>g>c>f{
   background-color: aqua;
   width: 481px;
-  height: 101px;
+  height: 110px;
   display: inline-block;
-  margin: 7px 11px ;
+  margin: 14px 15px ;
   padding-left: 3px;
   padding-top: 5px;
 
@@ -345,14 +345,23 @@ main>ult>g>c>f>b{
 
 /*hoja numero4*/
 
-main>nav{
+div{
+  background-color:greenyellow;
+  width: 690px;
+  height: 700px;
+  margin: auto;
+  padding-top: 30px;
+  padding-left: 70px;
+  padding-bottom: 30px;
+}
+div>nav{
   width: 100px;
   height: 200px;
   background-color: aqua;
   display: inline-block;
   margin: 2px 2px 2px -18px ; 
 }
-main>xz{
+div>xz{
   width: 100px;
   height: 200px;
   background-color: aqua;
@@ -360,7 +369,7 @@ main>xz{
   margin: 2px 2px 2px 5px ; 
   
 }
-main>cd{
+div>cd{
   width: 100px;
   height: 200px;
   background-color: aqua;
@@ -368,7 +377,7 @@ main>cd{
   margin: 2px 2px 2px 5px ; 
 
 }
-main>mn{
+div>mn{
   width: 100px;
   height: 200px;
   background-color: aqua;
@@ -376,7 +385,7 @@ main>mn{
   margin: 2px 2px 2px 5px ; 
 
 }
-main>as{
+div>as{
   width: 100px;
   height: 200px;
   background-color: aqua;
@@ -384,7 +393,7 @@ main>as{
   margin: 2px 2px 2px 5px ; 
 
 }
-main>fg{
+div>fg{
   width: 80px;
   height: 200px;
   background-color: aqua;
@@ -392,7 +401,7 @@ main>fg{
   margin: 2px 2px 2px 5px ; 
 
 }
-main>nav>al{
+div>nav>al{
   width: 70px;
   height: 70px;
   background-color: black;
@@ -400,7 +409,7 @@ main>nav>al{
   border-radius:50%;
   display:inline-block;
 }
-main>xz>al{
+div>xz>al{
   width: 63px;
   height: 175px;
   background-color: black;
@@ -408,7 +417,9 @@ main>xz>al{
   border-radius:50%;
   display:inline-block;
 }
-main>cd>al{
+
+
+div>cd>al{
   width: 70px;
   height: 70px;
   background-color: black;
@@ -416,7 +427,7 @@ main>cd>al{
   border-radius:50%;
   display:inline-block;
 }
-main>mn>al{
+div>mn>al{
   width: 63px;
   height: 175px;
   background-color: black;
@@ -424,7 +435,7 @@ main>mn>al{
   border-radius:50%;
   display:inline-block;
 }
-main>as>al{
+div>as>al{
   width: 70px;
   height: 70px;
   background-color: black;
@@ -434,21 +445,21 @@ main>as>al{
 }
 
 
-main>cua{
+div>cua{
   width: 211px;
   height: 219px;
   background-color: aqua;
   display: inline-block;
   margin: 2px 2px 2px -17px ; 
 }
-main>cua>arr{
+div>cua>arr{
   width: 169px;
   height: 54px;
   background-color: violet;
   display: inline-block;
   margin: 10px 2px 2px 20px ; 
 }
-main>cua>arr>al{
+div>cua>arr>al{
   width: 159px;
   height: 44px;
   background-color: black;
@@ -456,14 +467,14 @@ main>cua>arr>al{
   border-radius:50%;
   display:inline-block;
 }
-main>cua>za{
+div>cua>za{
   width: 74px;
   height: 132px;
   background-color: violet;
   display: inline-block;
   margin: 6px 2px 2px 19px ; 
 }
-main>cua>za>al{
+div>cua>za>al{
   width: 62px;
   height: 121px;
   background-color: black;
@@ -471,215 +482,13 @@ main>cua>za>al{
   border-radius:50%;
   display:inline-block;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-footer>section>section{
-  width: 70px;
-  height: 70px;
-  background-color: black;
-  margin:15px;
-  border-radius:50%;
-  display:inline-block;
-}
-footer>section>nav{
-  width: 70px;
-  height: 174px;
-  background-color: black;
-  margin: 12px;
-  border-radius: 45%;
-}
-/*PARTE DEL MEDIO*/
-footer>div{
-  width: 200px;
-  height: 200px;
-  background-color: bisque;
+div>bn{
+  width: 411px;
+  height: 218px;
+  background-color: aqua;
   display: inline-block;
-  margin-top: 10px;
+  margin: 10px 2px -10px 5px ; 
+  padding: -2px;
 }
-footer>div>section{
-  width: 180px;
-  height: 60px;
-  background-color: black;
-  display: inline-block;
-  margin: 10px ;
-}
-footer>div>section>nav{
-  width: 150px;
-  height: 50px;
-  background-color: yellow;
-  margin: auto;
-  margin-top: 5px;
-  border-radius: 45%;
-}
-footer>div>nav{
-  width: 80px;
-  height: 110px;
-  background-color: black;
-  display: inline-block;
-  margin:1px 10px;
-}
-footer>div>nav>nav{
-  width: 50px;
-  height: 100px;
-  background-color: yellow;
-  margin: auto;
-  margin-top: 5px;
-  border-radius: 45%;
-}
-footer>div>nav>section{
-  width: 45px;
-  height: 45px;
-  background-color: yellow;
-  margin: auto;
-  margin-top: 7px;
-  border-radius: 45%;
-}
-footer>li{
-  width: 400px;
-  height: 200px;
-  background-color: bisque;
-  display: inline-block;
-  margin: 10px;
-  vertical-align: top; 
-  vertical-align: right; 
-}
-footer>li>div{
-  width: 380px;
-  height: 180px;
-  background-color: black;
-  margin: 10px ;
-  padding: 0.2px;
-}
-footer>li>div>nav{
-  width: 350px;
-  height: 160px;
-  background-color: yellow;
-  margin: auto; 
-  margin-top: 10px;
-}
-footer>li>div>nav>section{
-  width: 90px;
-  height: 140px;
-  background-color: black;
-  display: inline-block;
-  margin: 10px ;
-}
-footer>li>div>nav>section>div{
-  width: 60px;
-  height: 60px;
-  background-color: yellow;
-  margin: auto;
-  margin-top: 40px;
-  border-radius: 45%;
-}
-
-
-/*PARTE MEDIO INFERIOR*/
-footer>n{
-  width: 190px;
-  height: 200px;
-  background-color: bisque;
-  display: inline-block;
-  margin: 10px 10px 0px 5px;
-  vertical-align: top;
-}
-footer>n>o{
-  width: 170px;
-  height: 180px;
-  background-color: black;
-  display: inline-block;
-  margin: 10px;
-}
-footer>n>o>d{
-  width: 120px;
-  height: 80px;
-  background-color: yellow;
-  display: inline-block;
-  margin: 15px;
-  margin-left: 25px;
-}
-footer>n>o>d>x{
-  width: 60px;
-  height: 60px;
-  background-color: black;
-  display: inline-block;
-  border-radius: 50%;
-  margin: 10px;
-  margin-left: 30px;
-}
-footer>n>o>k{
-  width: 110px;
-  height: 60px;
-  background-color: yellow;
-  display: inline-block;
-  border-radius: 50%;
-  margin-left: 30px;
-}
-footer>n>o>ka{
-  width: 110px;
-  height: 60px;
-  background-color: yellow;
-  display: inline-block;
-  border-radius: 50%;
-  margin-left: 30px;
-  margin-top: 10px;
-}
-footer>n>o>na{
-  width: 160px;
-  height: 160px;
-  background-color: yellow;
-  display: inline-block;
-  border-radius: 50%;
-  margin-left: 5px;
-  margin-top: 10px;
-}
-/*PARTE INFERIOR*/
-footer>la{
-  width: 600px;
-  height: 190px;
-  background-color: bisque;
-  display: inline-block;
-  margin: 10px;
-  vertical-align: top; 
-  vertical-align: right;
-}
-footer>la>ja{
-  width: 90px;
-  height: 120px;
-  background-color: black;
-  display: inline-block;
-  margin-top: 35px;
-  margin-left: 22px;
-  vertical-align: top;
-}
-footer>la>ja>hu{
-  width: 80px;
-  height: 80px;
-  background-color: yellow;
-  display: inline-block;
-  border-radius: 50%;
-  margin-left: 5px;
-  margin-top: 20px;
-}
-footer>la>ja>de{
-  width: 80px;
-  height: 40px;
-  background-color: yellow;
-  display: inline-block;
-  border-radius: 50%;
-  margin-left: 5px;
-  margin-top: 12px;
-}
-
 
 
