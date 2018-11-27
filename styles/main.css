@@ -29,39 +29,39 @@ main{
 main>article {
   width: 180px;
   height: 180px;
-  background-color: green;
+  background-color: darkcyan;
   display: inline-block;
   margin: 20px 11px;
 }
 main>article>section{
-  width: 180px;
-  height: 180px;
-  background-color: grey;
+  width: 168px;
+  height: 168px;
+  background-color: aqua;
   display: inline-block;
   border-radius: 50%;
-  margin: auto;
+  margin: 5px 5px;
 }
 
 /*PARTE DEL MEDIO*/
 main>section{
   width: 220px;
   height: 220px;
-  background-color: green;
+  background-color: darkcyan;
   display: inline-block;
   margin: 20px 46px;
 }
 main>section>section{
-  width: 219px;
-  height: 219px;
-  background-color: grey;
+  width: 195px;
+  height: 195px;
+  background-color: aqua;
   display: inline-block;
   border-radius: 50%;
-  margin:auto; 
+  margin: 10px 13px; 
 }
 
 /*PARTE DE ABAJO*/
 main>div{
-  background-color: green;
+  background-color: darkcyan;
   width: 505px;
   height: 265px;
   display: inline-block;
@@ -71,27 +71,27 @@ main>div{
 main>div>article{
   width: 130px;
   height: 245px;
-  background-color: grey;
+  background-color: aqua;
   display: inline-block;
   margin: 10px 15px ; 
 }
 main>div>article>aside{
   width: 70px;
   height: 70px;
-  background-color: green;
+  background-color: fuchsia;
   margin: 8px 25px ;
 }
 main>div>article>nav{
   width: 70px;
   height: 220px;
-  background-color: green;
+  background-color: fuchsia;
   margin: 15px 30px ;
   border-radius: 45%;
 }
 main>div>article>footer{
   width: 31px;
   height: 0px;
-  background-color: green;
+  background-color: fuchsia;
   margin: 1px 25px;
   border-radius: 50%;
 }
@@ -117,87 +117,76 @@ nav ul li a{
   background-color: #CD2BE2;
 }
 
+
 /*pagina dos*/
 /*arriba*/
-main>nav{
-  width: 250px;
-  height: 250px;
-  background-color: green;
+main{
+  background-color:greenyellow;
+  width: 690px;
+  height: 788px;
+  margin: auto;
+  padding-top: 30px;
+  padding-left: 70px;
+  padding-bottom: 30px;
+}
+main>xc{
+  width: 286px;
+  height: 264px;
+  background-color: aqua;
   display: inline-block;
-  margin: 15px 15px; 
+  margin: 10px 5px;
+  padding: 10px;
 }
-main>nav>section{
-  width: 120px;
-  height: 120px;
- background-color: violet;
- display: inline-block;
- border-radius: 50%;
- margin: auto;
-}
-
-/*centro*/
-main>footer{
-  width: 300px;
-  height: 180px;
-  background-color:royalblue;
-  display: inline-block;
-  margin: 20px 150px; 
-  padding-top: 10px;
-}
-main>footer>sa{
-  width: 140px;
-  height: 140px;
-  background-color: darkblue;
+main>xc>kk{
+  width: 126px;
+  height: 126px;
+  background-color: fuchsia;
   display: inline-block;
   border-radius: 50%;
-  margin-left: -32px;
-  margin-top: 32px;
+  margin: 2.7px 6px;
 }
-main>footer>sa1{
-  width: 140px;
-  height: 140px;
-  background-color: darkblue;
+/*parte de enmedio*/
+main>med{
+  width: 286px;
+  height: 223px;
+  background-color: aqua;
+  display: inline-block;
+  margin: 10px 172px;
+  padding: 10px;
+}
+main>med>kk{
+  width: 141px;
+  height: 141px;
+  background-color: fuchsia;
   display: inline-block;
   border-radius: 50%;
-  margin-left: 27px;
-  margin-top: 32px;
+  margin: 33.7px 0px;
 }
-
-/*abajo*/
-
-main>a{
-  width: 136px;
-  height: 158px;
-  background-color:yellow;
+/*parte de abajo*/
+main>cuaul{
+  width: 145px;
+  height: 194px;
+  background-color: aqua;
   display: inline-block;
-  margin: 10px;
-  padding-bottom: 5px;
+  margin: 35px 5px 4px 2px;
+  padding: 3px;
 }
-main>a>section{
-  width:70px;
-  height: 130px;
-  background-color: violet;
- margin: 15px 30px;
- border-radius: 45%;
+main>cuaul>kk{
+  width: 101px;
+  height: 168px;
+  background-color: fuchsia;
+  display: inline-block;
+  border-radius: 44%;
+  margin: 17.7px 24px;
 }
-
-main>a>aside{
-  width: 50px;
-  height: 65px;
-  background-color: violet;
-  margin: 9px;
+main>cuaul>kk1{
+  width: 68px;
+  height: 68px;
+  background-color: fuchsia;
+  display: inline-block;
   border-radius: 50%;
-  display: inline-block;
-
+  margin: 15.7px 1px;
 }
-
-
-
-
-
-
-
-
 
 /*hoja 3*/
 
@@ -245,7 +234,7 @@ main>em{
   width: 585px;
   height: 265px;
   display: inline-block;
-  margin: 10px 5px ;
+  margin: 29px 5px;
   padding-left: 10px;
   padding-top: 5px;
 }
@@ -309,12 +298,12 @@ main>em>sig>t>b{
 
 /*parte de abajo*/
 main>ult{
-  background-color:fuchsia;
+  background-color: fuchsia;
   width: 604px;
   height: 238px;
   display: inline-block;
-  margin: 10px 5px ;
-  padding-left: 10px;
+  margin: 14px 5px;
+  padding-left: 13px;
   padding-top: 5px;
 
 }
